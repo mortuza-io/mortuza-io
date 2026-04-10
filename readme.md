@@ -1,35 +1,25 @@
 # Hi there, I am Mahin 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding animation">
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="220" alt="cute tech gif">
 </p>
 
-## About Me: ✨
+## About Me: 🌟
 
-I am a **CSE student** who loves creating useful and modern projects.  
-I enjoy working on **software, bots, automation, and web development**.
+I am a **CSE student** with a strong interest in technology and development.  
+I enjoy building practical projects and exploring creative ideas.
 
-I love learning new technologies and improving through building real things.  
-Recently, I have been focusing on **Python, databases, system design, and open-source projects**.
+I love learning new technologies and improving my skills every day.  
+Recently, I have been enjoying **Python, web development, databases, and automation**.
 
-I am currently working on exciting ideas.  
-Currently learning and improving in **development, design, and scalable coding practices**. 🌱
+I am currently working on something cool.  
+Currently learning **better project building and modern development skills**. 🌱
 
 ## How to reach me
 
-📌 You can find me here on **GitHub**  
-🤝 Open to professional connections and collaboration
-
----
-
-## Interests
-
-- 💻 Software Development  
-- 🤖 Bots and Automation  
-- 🌐 Web Applications  
-- 🎨 Clean and Modern UI  
-- 📚 Continuous Learning  
+📝 Find my work on **GitHub**  
+🤝 Connect with me professionally
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="260" alt="working gif">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" alt="cute developer gif">
 </p>
