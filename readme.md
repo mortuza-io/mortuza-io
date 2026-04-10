@@ -1,32 +1,27 @@
-<h1 align="center">Mahin Mortuza</h1>
-<h3 align="center">Developer • Student • Open Source Explorer</h3>
+# Hi there, I am Mahin Mortuza 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+modern+projects;Learning+by+creating;Open+source+enthusiast;Always+improving" alt="Typing SVG" />
-</p>
+## About Me: ✨
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="developer gif" />
-</p>
+I am a **CSE student** passionate about technology, development, and building useful projects.  
+I enjoy creating **bots, web applications, tools, and modern digital experiences**.
 
-<p align="center">
-  I enjoy turning ideas into polished and practical software.<br>
-  I love modern design, useful tools, and meaningful projects.
-</p>
+I love learning new technologies and improving my skills step by step.  
+Recently, I have been focusing on **Python, databases, web development, and open-source contributions**.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,mongodb,mysql,git,github&theme=dark" />
-</p>
+I am currently working on exciting ideas and personal projects.  
+Currently learning **software development, problem solving, and scalable project structure**. 🌱
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mortuza-io&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortuza-io&layout=compact&theme=transparent&hide_border=true" height="165"/>
-</p>
+## How to reach me
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mortuza-io&theme=transparent&hide_border=true" height="165"/>
-</p>
+📌 You can find my work here on **GitHub**  
+🤝 I am also open to connecting professionally
 
-<p align="center">
-  <b>Focused on:</b> Web Development • Bots • Automation • Creative Projects
-</p>
+---
+
+## Interests
+
+- 💻 Software Development
+- 🤖 Bots and Automation
+- 🌐 Web Applications
+- 🎨 Modern UI/UX
+- 📚 Continuous Learning
