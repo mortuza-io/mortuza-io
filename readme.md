@@ -1,27 +1,35 @@
-# Hi there, I am Mahin Mortuza 👋
+# Hi there, I am Mahin 👋
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding animation">
+</p>
 
 ## About Me: ✨
 
-I am a **CSE student** passionate about technology, development, and building useful projects.  
-I enjoy creating **bots, web applications, tools, and modern digital experiences**.
+I am a **CSE student** who loves creating useful and modern projects.  
+I enjoy working on **software, bots, automation, and web development**.
 
-I love learning new technologies and improving my skills step by step.  
-Recently, I have been focusing on **Python, databases, web development, and open-source contributions**.
+I love learning new technologies and improving through building real things.  
+Recently, I have been focusing on **Python, databases, system design, and open-source projects**.
 
-I am currently working on exciting ideas and personal projects.  
-Currently learning **software development, problem solving, and scalable project structure**. 🌱
+I am currently working on exciting ideas.  
+Currently learning and improving in **development, design, and scalable coding practices**. 🌱
 
 ## How to reach me
 
-📌 You can find my work here on **GitHub**  
-🤝 I am also open to connecting professionally
+📌 You can find me here on **GitHub**  
+🤝 Open to professional connections and collaboration
 
 ---
 
 ## Interests
 
-- 💻 Software Development
-- 🤖 Bots and Automation
-- 🌐 Web Applications
-- 🎨 Modern UI/UX
-- 📚 Continuous Learning
+- 💻 Software Development  
+- 🤖 Bots and Automation  
+- 🌐 Web Applications  
+- 🎨 Clean and Modern UI  
+- 📚 Continuous Learning  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="260" alt="working gif">
+</p>
