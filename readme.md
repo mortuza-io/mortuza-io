@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20mortuza-io%20(Mahin Mortuza)&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World&desc=i%27m%20heroshi(Mahin%20Mortuza)" width="100%"/>
   
   <br/>
   
