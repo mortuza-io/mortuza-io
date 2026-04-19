@@ -9,7 +9,7 @@
 <div align="center">
   <br/>
   <a href="https://github.com/mortuza-io">
-    <img src="https://img.shields.io/badge/User-mortuza-io-blueviolet?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/User-mortuza-io?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:mahinmortuza11@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
