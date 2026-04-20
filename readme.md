@@ -14,7 +14,7 @@
   <a href="mailto:mahinmortuza11@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://twitter.com/mortuza-io">
+  <a href="https://twitter.com/mortuza_io">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mahin-mortuza">
