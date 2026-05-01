@@ -65,7 +65,7 @@
       <td width="50%" valign="top" style="border: none;">
         <h2 align="center">📈 GitHub Stats</h2>
         <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=mortuza-io&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="zinzied stats" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=mortuza-io&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="mortuza stats" width="100%" />
         </p>
         <p align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mortuza-io&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="mortuza languages" width="100%" />
