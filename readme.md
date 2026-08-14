@@ -68,7 +68,7 @@
           <img src="https://github-readme-stats.shion.dev/api?username=mortuza-io&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="mortuza stats" width="100%" />
         </p>
         <p align="center">
-          <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mortuza-io&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="mortuza languages" width="100%" />
+          <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mortuza-io&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="mortuza languages" width="100%" />
         </p>
       </td>
     </tr>
