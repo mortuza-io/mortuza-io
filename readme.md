@@ -65,7 +65,7 @@
       <td width="50%" valign="top" style="border: none;">
         <h2 align="center">📈 GitHub Stats</h2>
         <p align="center">
-          <img src="https://github-readme-stats.shion.dev/api?username=mortuza-io&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="mortuza stats" width="100%" />
+          <img src="https://github-readme-stats.shion.dev/api?username=mortuza-io&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="mortuza stats" width="100%" />
         </p>
         <p align="center">
           <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mortuza-io&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="mortuza languages" width="100%" />
